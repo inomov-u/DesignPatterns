@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "SingletonFactoryMethodPattern/src/com",
-        "SingletonFactoryMethodPattern/src"
+        "SingletonFactoryMethodPattern/src",
+        "AdapterPattern/src"
     ]
 }
